@@ -30,15 +30,3 @@
    - Cross-platform (iOS / Android).
 
 > 💡 Each component can be developed independently but are integrated here for collaborative development and end-to-end testing.
-
----
-
-## 📁 Repository Structure
-Morphe/
-├── fitness_django_project-with-docker/ # Backend (Django + Docker)
-├── woman_moment/ # ML Service (FastAPI)
-├── my_app/ # Frontend (Flutter/Dart)
-├── README.md
-└── .gitmodules
-
-
