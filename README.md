@@ -7,7 +7,7 @@
 
 ## 🧩 Projects Included
 
-1. [`fitness_django_project-with-docker`](fitness_django_project-with-docker)  
+1. [`morphe-backend`](morphe-backend)  
    - **Backend API** built using **Django**.
    - RESTful endpoints for managing:
      - User accounts
@@ -15,7 +15,7 @@
      - Goals and progress tracking
    - Fully containerized with **Docker** for easy deployment.
 
-2. [`woman_moment`](woman_moment)  
+2. [`morphe-ml-service`](morphe-ml-service)  
    - **Machine Learning Microservice** powered by **FastAPI**.
    - Purpose:
      - Analyze user data
