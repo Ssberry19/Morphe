@@ -1,0 +1,9 @@
+[submodule "my_app"]
+	path = my_app
+	url = https://github.com/Ssberry19/my_app.git
+[submodule "fitness_django_project-with-docker"]
+	path = fitness_django_project-with-docker
+	url = https://github.com/Ssberry19/fitness_django_project-with-docker.git
+[submodule "woman_moment"]
+	path = woman_moment
+	url = https://github.com/Ssberry19/woman_moment.git
