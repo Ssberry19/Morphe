@@ -22,7 +22,7 @@
      - Generate workout recommendations
      - Integrate model inference into the ecosystem
 
-3. [`my_app`](my_app)  
+3. [`morphe-frontend`](morphe-frontend)  
    - **Frontend mobile application** built with **Flutter and Dart**.
    - Designed to be the main UI for users.
    - Integrates with both Django backend and FastAPI ML services.
