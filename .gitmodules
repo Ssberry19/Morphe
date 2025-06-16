@@ -1,9 +1,9 @@
 [submodule "morphe-frontend"]
 	path = morphe-frontend
 	url = https://github.com/Ssberry19/Morphe-frontend.git
-[submodule "fitness_django_project-with-docker"]
-	path = fitness_django_project-with-docker
-	url = https://github.com/Ssberry19/fitness_django_project-with-docker.git
-[submodule "woman_moment"]
-	path = woman_moment
-	url = https://github.com/Ssberry19/woman_moment.git
+[submodule "morphe-backend"]
+	path = morphe-backend
+	url = https://github.com/Ssberry19/morphe-backend.git
+[submodule "morphe-ml-service"]
+	path = morphe-ml-service
+	url = https://github.com/Ssberry19/morphe-ml-service.git
