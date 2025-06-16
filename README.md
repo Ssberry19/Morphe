@@ -19,7 +19,6 @@
    - **Machine Learning Microservice** powered by **FastAPI**.
    - Purpose:
      - Analyze user data
-     - Predict performance trends
      - Generate workout recommendations
      - Integrate model inference into the ecosystem
 
